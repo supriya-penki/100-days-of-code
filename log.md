@@ -8,7 +8,7 @@
 **Thoughts:** Today was really demotivating...when i realised i couldnt take space separated inputs into an array.it feels like a de ja vu coz i faced this befre whne i learnt c coding. anyways like always i didnt give up and kept trying every single way i could .and i finally gave up and went to python to code my logic ,felt bad so i took help from my friend and finally got to know that its the easiest thing on c++...feels bad but i am happy !!! coz i finally started my coding ..and feels like i am getting back to track!!
 So coming to point ,I did array rotation problem in c++ and python as well.
 
-**Link to work:** [Calculator App](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
+**Link to work:** [array rotation](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
