@@ -16,8 +16,8 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 **Today's Progress**: learnt array functions
 **Thoughts**: so today i focused on the requirements for online test for amazon.Coz i think that it will motivate me more and give a direction to my coding...like a more specific prep.I did 2 problems from a corse for amazon sde prep.
 
-**Link(s) to work**: [Calculator App](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192)
-                     [Calculator App](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192)
+**Link(s) to work**:1. [replace all zeros with 5s](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192)
+                    2. [Find 3rd largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192)
 
 
 
