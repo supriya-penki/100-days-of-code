@@ -10,14 +10,15 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 
 **Link to work:** [array rotation](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: April 4,2021 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learnt array functions
+**Thoughts**: so today i focused on the requirements for online test for amazon.Coz i think that it will motivate me more and give a direction to my coding...like a more specific prep.I did 2 problems from a corse for amazon sde prep.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: [Calculator App](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192)
+                     [Calculator App](https://practice.geeksforgeeks.org/problems/third-largest-element/1/?track=amazon-arrays&batchId=192)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
