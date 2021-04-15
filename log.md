@@ -21,6 +21,14 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 
 
 
+### Day 3: April 15, Thursday
+
+**Today's Progress**: learnt about frequently used algorithms in STL
+
+**Thoughts** I had to take a break coz last 10 days were my last days in college and i had to enjoy to the fullest.Anyways i enjoyed a lot and then i was busy in packing ..so i had to stop coding for few days...hmmm..i know its bad..but i had to!!.Okay after the break it was difficult to get back to the flow .I am still practising the course for amazon OT suggested by my friend. i sat for more than 0 hours not continuosly though,on 3 codes and i could successfully execute only one!!!....its sad ..but i got to know  a  lot of stuff..i dont know whether this hourney will benefit me or not...but i dont stop this...i even stopped posting on twitter i know irs bad coz my hr is seeing it.....noooo.but what can i do?????...its okay ..probably he wont even remember me...hahaa...okay lets get to the point..i successfully implemented max sum of rotating array.. and below is the link..
+**Link(s) to work**
+1. [max-sum-in-the-configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/?track=amazon-arrays&batchId=192)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -30,3 +38,4 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
