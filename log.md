@@ -40,8 +40,15 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
-### Day 2: Feb 14, Friday
+### Day 2: Feb 14, Saturday
 **Today's Progress**: Solved a leetcode problem for linked list - easy.
 **Thoughts** Took a long break but i wanna finish this !!, it was a easy question but again i complicated it! anyways got a shorter version from the internet and it was fast and satifying. **Note for myself: Take the bolded instructions seriously!! your hack to to solve the problem is hidden in those specific instructions!!!**
+
+### Day 3: Feb 15, Sunday
+
+**Today's Progress**: Solved a leetcode problem for linked list - easy  - Middle of the Linked List.
+**Thoughts**  It was a easy question but again i complicated it! anyways got a shorter version from the from the discussion section. Tells the importance of two pointer approach !! and the bound checks I was abl ot correctly think what checks to put for the while loop!! it was good, usually i dont feel confident on how i think to put the bound checcks for the loop,but thisgave eme confidence. 
+**Note for myself:  The bound checks are important, take time and think it through, dont be lazy and silently just pray for it to work!!!**
+**link :** https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list
 
 
