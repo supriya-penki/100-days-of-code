@@ -48,6 +48,11 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 
 **Today's Progress**: Solved a leetcode problem for linked list - easy  - Middle of the Linked List.
 **Thoughts**  It was a easy question but again i complicated it! anyways got a shorter version from the from the discussion section. Tells the importance of two pointer approach !! and the bound checks I was abl ot correctly think what checks to put for the while loop!! it was good, usually i dont feel confident on how i think to put the bound checcks for the loop,but thisgave eme confidence. 
+
+also solved : letcode meddium problem : https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1919979802/?envType=problem-list-v2&envId=linked-list
+umm wasted a lot of time because i knew i had to start at -1, but i have never done that in linkeddlist, so learnt that we can just initliaze a dummy node pointing to the head form where the pointers start!! and then start going ahead.
+Good problem!
+Again 2 pointer problem, makes you really think to how to play around with pointers and bit of math!!--**REDO**!!
 **Note for myself:  The bound checks are important, take time and think it through, dont be lazy and silently just pray for it to work!!!**
 **link :** https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list
 
