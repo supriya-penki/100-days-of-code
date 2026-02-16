@@ -57,3 +57,10 @@ Again 2 pointer problem, makes you really think to how to play around with point
 **link :** https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list
 
 
+
+
+### Day 2: Feb 16, Monday
+**Today's Progress**: Solved a leetcode problem for linked list - easy - reverse a linked list.
+**Thoughts** Got the logic in the first go using a 3 pointer...but again!!! i wanst carefull about null pointer dereferncing!!!! be very careful with null pointers. place checks every where and see and also again inmissed the corener case of checking for just 1 element!!1 why???!!!
+**Note for myself: Dont be lazy!!!, check the damn corener case !!! just plugin one and see what happens on a dry run without using the testcase. Most of my submissions fail at that case!! its very bad!!! so just do one dry run!! thats all!! dont be lazy takes literally 2mins and helps you improve doing code walk through!! okay? **
+
