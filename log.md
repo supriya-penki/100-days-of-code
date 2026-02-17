@@ -59,8 +59,14 @@ Again 2 pointer problem, makes you really think to how to play around with point
 
 
 
-### Day 2: Feb 16, Monday
+### Day 4: Feb 16, Monday
 **Today's Progress**: Solved a leetcode problem for linked list - easy - reverse a linked list.
 **Thoughts** Got the logic in the first go using a 3 pointer...but again!!! i wanst carefull about null pointer dereferncing!!!! be very careful with null pointers. place checks every where and see and also again inmissed the corener case of checking for just 1 element!!1 why???!!!
-**Note for myself: Dont be lazy!!!, check the damn corener case !!! just plugin one and see what happens on a dry run without using the testcase. Most of my submissions fail at that case!! its very bad!!! so just do one dry run!! thats all!! dont be lazy takes literally 2mins and helps you improve doing code walk through!! okay? **
+**Note for myself: Dont be lazy!!!, check the damn corener case !!! just plugin one and see what happens on a dry run without using the testcase. Most of my submissions fail at that case!! its very bad!!! so just do one dry run!! thats all!! dont be lazy takes literally 2mins and helps you improve doing code walk through!! okay?**
+
+
+### Day 5: Feb 17, tuesday
+**Today's Progress**: Solved a leetcode problem for linked list - medium - rotate a linked list by k.
+**Thoughts** found the logic myself and it works in O(2*n) time!!but again could pass all the testcases in first go. this time i did check the corner case first but again missed out on another corner = case. Its okay I am gettign there. I need to slowly build thinking about all the corner cases. No one starts a pro, and dtis is how i will build thinking the corner cases, no one is born with the ability to just think all the test cases. Poeple build it over time and i am going to have patience and do it and be consistent.
+**Note for myself:Its okay if it takes time, practise, and dlearn by you maded certain mistakes, rather giving it dorectly to chatgpt tp find the mistake, try to think about it by yourself, even if this takes time to do it , you will learn faster!!!**
 
