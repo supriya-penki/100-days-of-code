@@ -70,3 +70,11 @@ Again 2 pointer problem, makes you really think to how to play around with point
 **Thoughts** found the logic myself and it works in O(2*n) time!!but again could pass all the testcases in first go. this time i did check the corner case first but again missed out on another corner = case. Its okay I am gettign there. I need to slowly build thinking about all the corner cases. No one starts a pro, and dtis is how i will build thinking the corner cases, no one is born with the ability to just think all the test cases. Poeple build it over time and i am going to have patience and do it and be consistent.
 **Note for myself:Its okay if it takes time, practise, and dlearn by you maded certain mistakes, rather giving it dorectly to chatgpt tp find the mistake, try to think about it by yourself, even if this takes time to do it , you will learn faster!!!**
 
+
+### Day 5: Feb 18, Wednesday
+**Today's Progress**: Solved a leetcode problem for linked list - medium - delete the middle of  the list.
+**Thoughts** Wrote the logic by myself! practise does make a woman perfect! noice... I did again the 2 pointer probelme appraoch so it worked. This time I really thought through the testcases.
+Actually the problem discussion was really good because of them giving the corner case values clearly!! it really helped! I nicely thought through the problem correctly. This passed all the testcases in one go. 
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1923675913/?envType=problem-list-v2&envId=linked-list 
+**Note for myself: Mentally make the testcases for atleast 5 situations starting from the 1 element case!, just like this case did**
+
