@@ -78,3 +78,8 @@ Actually the problem discussion was really good because of them giving the corne
 https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1923675913/?envType=problem-list-v2&envId=linked-list 
 **Note for myself: Mentally make the testcases for atleast 5 situations starting from the 1 element case!, just like this case did**
 
+### Day 6: Feb 21, Wednesday
+**Today's Progress**: Solved a leetcode problem for linked list - easy - finidng a cycle in a list.
+**Thoughts** : I could think of the right logic by myself in 5 mins. yayy!!! may be i kind of solved this type of problem few years agp. But i cant beleive i was able to think about in 5 mins... practise makes a woman perfect!!!! yayy. BUtttttt i fogot to to check and accoint for the head==NULL test case.. got ahead of myself 
+**Note for myself: first and foremost check the NULL test case!!! that's very important corener case that you need to account for in the very beginning!!!**
+
