@@ -85,6 +85,8 @@ https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submission
 
 ### Day 7: Feb 22, Sunday
 **Today's Progress**: Solved a leetcode problem for linked list - Medium - Linked List Cycle II
-**Thoughts** : It was a bit more mathematical and i did not spend the time to solve the math. I dont know why, but may be because this was the first time i saw mathematical equation solving for a coding question... so anyways it was fun to know a new algorithm  **[FLOYD'S CYCLE DETECTION ALGORITHM]** . solved the question and it was good
-**Note for myself: BE patient and practise, things will come naturally to you. No one is born with the thinking skills to solve this problems, everyone learns it this way and they just dont talk about it. Use this precious time code gave you to sharpen all the skills you ever needed!!!**
+                      Solved a leetcode easy problem - Intersection of Two Linked Lists
+**Thoughts** : It was a bit more mathematical and i did not spend the time to solve the math. I dont know why, but may be because this was the first time i saw mathematical equation solving for a coding question... so anyways it was fun to know a new algorithm  **[FLOYD'S CYCLE DETECTION ALGORITHM]** . solved the question and it was good\
+second questionw as good, i could have thoiught about the logic but i didnt, i shoudl have put more time to think =, if i am tired i shouldnt do the question if its difficult for you
+**Note for myself: hceck NULL pointer dereferecing always!!! BE patient and practise, things will come naturally to you. No one is born with the thinking skills to solve this problems, everyone learns it this way and they just dont talk about it. Use this precious time code gave you to sharpen all the skills you ever needed!!!**
 
