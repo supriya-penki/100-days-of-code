@@ -40,6 +40,13 @@ So coming to point ,I did array rotation problem in c++ and python as well.
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////// **2026** ///////////////////////////////////////////////////////////////////////////////
+
 ### Day 2: Feb 14, Saturday
 **Today's Progress**: Solved a leetcode problem for linked list - easy.
 **Thoughts** Took a long break but i wanna finish this !!, it was a easy question but again i complicated it! anyways got a shorter version from the internet and it was fast and satifying. **Note for myself: Take the bolded instructions seriously!! your hack to to solve the problem is hidden in those specific instructions!!!**
