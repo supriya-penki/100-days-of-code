@@ -90,3 +90,10 @@ https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submission
 second questionw as good, i could have thoiught about the logic but i didnt, i shoudl have put more time to think =, if i am tired i shouldnt do the question if its difficult for you
 **Note for myself: hceck NULL pointer dereferecing always!!! BE patient and practise, things will come naturally to you. No one is born with the thinking skills to solve this problems, everyone learns it this way and they just dont talk about it. Use this precious time code gave you to sharpen all the skills you ever needed!!!**
 
+### Day 8: Feb 22, Sunday
+**Today's Progress**:  Solved a leetcode easy problem - Binary Gap you
+                     
+**Thoughts** :Easy bit manipulation . I coulsnt recall that if you do bitwise operation the decimal representation will be interpreted as binary anyways, so  i dont have to convert into binary and put it into vector and stuff... time waste.
+Spent an hour on a hard question, it is very important question of linkedin and has come in a lot of interviews. **(Reverse Nodes in k-Group)** , couldnt solve it in one hour need to try again, dont give up, you got this!!!
+**Note for myself: Things take time , dont give up.. you can do it. If it is taking time means its actually developing you... so dont worry and try it again by the EOD!!!**
+
