@@ -104,3 +104,9 @@ second questionw as good, i could have thoiught about the logic but i didnt, i s
 Spent an hour on a hard question, it is very important question of linkedin and has come in a lot of interviews. **(Reverse Nodes in k-Group)** , couldnt solve it in one hour need to try again, dont give up, you got this!!!
 **Note for myself: Things take time , dont give up.. you can do it. If it is taking time means its actually developing you... so dont worry and try it again by the EOD!!!**
 
+### Day 9: Feb 28, Thursday
+**Today's Progress**:  Solved a leetcode medium problem - add two numbers without using arithmetic logic
+                     
+**Thoughts** :guessing the half adder part is easy but coming up with the carry logic needs practise i kind of got it but i complicated it!!
+**Note for myself: practise more when you actually dont feel like practising !!**
+
